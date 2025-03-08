@@ -1,0 +1,30 @@
+Primer Corte - Estructura de datos
+Javier Esteban Ortiz Lopez - Respuestas
+
+1. ¿Cual de las siguientes afirmaciones es verdadera acerca del lenguaje de máquina?
+C) Funciona con lenguaje binario.
+
+2. ¿Cuales de los siguientes son ejemplos de lenguajes de programación?
+A) Java
+B) Python
+C) C++
+
+3. ¿Cuales de los siguientes son ejemplos de Entornos de Desarrollo Integrados (IDEs) utilizados
+para escribir código en diferentes lenguajes de programación?
+
+C) Eclipse
+E) IntelliJ IDEA
+
+4. ¿Cual es la diferencia entre un IDE y un editor de texto?
+
+A) El IDE es mas avanzado que el editor de texto y ofrece funciones adicionales como depuración y autocompletado.
+
+5. Escriba los comandos para realizar una actualización en un repositorio al cual usted tiene acceso. 
+Recuerde que el orden afectaría que pueda dejar por fuera una actualización de otro usuario del mismo repositorio, perdiendo información.
+
+1. git status -s 
+2. git pull origin master
+3. git add . 
+4. git commit -m
+5. git push origin master
+
