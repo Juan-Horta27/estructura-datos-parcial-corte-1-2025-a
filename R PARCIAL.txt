@@ -1,6 +1,5 @@
 Primer Corte - Estructura de datos
-Javier Esteban Ortiz Lopez - Respuestas
-
+Juan Jose Horta Vanegas 
 1. ¿Cual de las siguientes afirmaciones es verdadera acerca del lenguaje de máquina?
 C) Funciona con lenguaje binario.
 
